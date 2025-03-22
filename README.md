@@ -4,7 +4,7 @@ This repository contains the Jenkins CI/CD pipeline configuration for the **MyAp
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The `myapp-cicd` repo automates the building, testing, and deployment of the `MyApp` project using **Jenkins pipelines**. This setup ensures consistent, fast, and reliable integration and delivery of both backend and frontend components.
 
